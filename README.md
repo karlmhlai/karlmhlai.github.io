@@ -1,8 +1,8 @@
 # Protection Engineer
 
 ### Education
-Power System Engineering, MSc, HKU
-Electrical Engineering, BEng, HKU
+- Power System Engineering, MSc, HKU (2019 - 2022)
+- Electrical Engineering, BEng, HKU  (2015 - 2019)
 
 ### Work Experience
 Engineer @ CLP Power Hong Kong
