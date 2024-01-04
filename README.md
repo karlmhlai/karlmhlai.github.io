@@ -37,4 +37,17 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 - System Inertia Requirement 
 - Out-of-Step Protection and Frequency Restoration
 - Commissioning of Protection System (400kV Bay - Feeder + Generator) 
-- High Voltage Testing 
+- High Voltage Testing
+
+**Research Assistant** @ Department of EEE, HKU (2019)
+- **Project**: Review of Conservative Voltage Reduction (CVR) and its Applicability to CLP Power Grid
+- Volt-Var Optimization
+- Dynamic Load Modelling
+
+**Summer Intern** @ AMD/Network Planning, CLP Power Hong Kong Ltd. (2018 Summer)
+- **Project**: Issues in LV Distribution Network with PV Penetration
+- Power Electronics & Control
+- PV Penetration Issues (Voltage Rise, Unbalanced Voltage, Harmonics, DC Injection, Protection)
+- Feed-in-Tariff & Demand Response
+- Power System Modelling (Energy Storage, Governor Turbine Model, Load Model)
+- PSCAD, MATLAB - Simulink (Monte-Carlo Simulation), PSS-SinCAL
