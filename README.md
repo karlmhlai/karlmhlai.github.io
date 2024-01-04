@@ -24,11 +24,11 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 
 ### Work Experience
 **Engineer** @ TD/Plant/Protection O&M, CLP Power Hong Kong
-- Protection Operation & Maintenance
-- (Busbar Protection - HZBBZ, ILOC, EBBZ; Feeder, RMU & Transformer, Capacitor Protection)
+- Protection Operation & Maintenance (Busbar Protection - HZBBZ, ILOC, EBBZ; Feeder, RMU & Transformer, Capacitor Protection)
 - Protection Improvement (Numerical Auto-Switching, Protection Replacement)
 - Fault Diagnosis and Rectification on Secondary Circuit (Switchgear & Protection)
-- Transformer and CT Modelling during Deep Saturation with Inrush and Restrike Condition
+- [Fault Location](https://github.com/karlmhlai/portfolio/blob/c4b0df88b9bc62eed2d7da8b90b8bc6dcb9aab96/assets/doc/Fault%20Location_4f_MHL.pdf)
+- Transformer and CT Modelling during Deep Saturation with Inrush and Restrike Condition, [LVREF](https://github.com/karlmhlai/portfolio/blob/a793d8b114dcc3a16b99e282ed3cfcf7d10da1e3/assets/doc/LVREF_4f.pdf)
 - Interconnection Protection Design (PSB, OOS, Electrical Centre, Pole Slip Coordination)
 - Generator Protection Primary Injection, Ferroresonance & Inrush Study for First Energization
 ![Earth Resistance](/assets/img/Earth_Resistance.JPG) 
