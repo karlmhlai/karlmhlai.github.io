@@ -7,9 +7,9 @@ Power System Engineering, MSc, HKU (2019 - 2022)
 - Transient Analysis on Effectiveness on Decentralized Droop Control to Maintain Power Quality
 - **Topics Studied**:
 - Power System Operation
-- Advanced Railway Systems
+- [Advanced Railway Systems](https://github.com/karlmhlai/portfolio/blob/2766dfe027b7d6eb6c7f11440019d0101ba22a38/assets/doc/ELEC7404.pdf)
 - Digital Communication
-- Atmospheric Environmental Modelling
+- [Atmospheric Environmental Modelling](https://github.com/karlmhlai/portfolio/blob/2766dfe027b7d6eb6c7f11440019d0101ba22a38/assets/doc/MECH6018.pdf)
 ![Dissertation](/assets/img/Dissertation.JPG)
 
 Electrical Engineering, BEng, HKU  (2015 - 2019)
