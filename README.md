@@ -5,7 +5,7 @@ Power System Engineering, MSc, HKU (2019 - 2022)
 - Dissertation: DC Link & AC/DC Interface - Fault, Stability and Control
 - Steady State MINLP Optimization for Min Cost, Max Hosting Capacity, Min Voltage Deviation Grid-Reconfiguration
 - Transient Analysis on Effectiveness on Decentralized Droop Control to Maintain Power Quality
-Topics Studied:
+* Topics Studied:
 - Power System Operation
 - Advanced Railway Systems
 - Digital Communication
@@ -14,7 +14,7 @@ Topics Studied:
 Electrical Engineering, BEng, HKU  (2015 - 2019)
 - Final Year Project: High Step-Up Ratio Resonant Converter with Phase Shift Control for PV Applications
 - Integrated Design Project: Smart Farm with Microgrid
-Topics Studied:
+* Topics Studied:
 - Power Systems Engineering (Protection & Analysis)
 - Control Systems
 - Heat Transfer and HVAC Design
