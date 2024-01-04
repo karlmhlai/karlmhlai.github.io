@@ -19,7 +19,7 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 - Control Systems
 - Heat Transfer and HVAC Design
 - Digital Signal Processing, Image Processing, Pattern Recognition and Machine Learning
-![FYP] (/assets/img/FYP.JPG)
+![FYP](/assets/img/FYP.JPG)
 
 ### Work Experience
 **Engineer** @ TD/Plant/Protection O&M, CLP Power Hong Kong
@@ -30,8 +30,8 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 - Transformer and CT Modelling during Deep Saturation with Inrush and Restrike Condition
 - Interconnection Protection Design (PSB, OOS, Electrical Centre, Pole Slip Coordination)
 - Generator Protection Primary Injection, Ferroresonance & Inrush Study for First Energization
-![Earth Resistance] (/assets/img/Earth Resistance.JPG)
-![Fault Waveform] (/assets/img/Capture.JPG)
+![Earth Resistance](/assets/img/Earth_Resistance.JPG) 
+![Fault Waveform](/assets/img/Capture.JPG)
 
 **Assistant Engineer** @ TD/P&R/Commissioning & Outage Planning, CLP Power Hong Kong Ltd
 - Commissioning Test on Switchgear and Protection System (CT tests, Primary Injection, Through Fault Stability Test, Functional Test)
@@ -49,7 +49,7 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 
 **Summer Intern** @ AMD/Network Planning, CLP Power Hong Kong Ltd. (2018 Summer)
 - **Project**: Issues in LV Distribution Network with PV Penetration
-![Voltage Control] (/assets/img/Intern.JPG)
+![Voltage Control](/assets/img/Intern.JPG)
 - Power Electronics & Control
 - PV Penetration Issues (Voltage Rise, Unbalanced Voltage, Harmonics, DC Injection, Protection)
 - Feed-in-Tariff & Demand Response
