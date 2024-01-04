@@ -10,6 +10,7 @@ Power System Engineering, MSc, HKU (2019 - 2022)
 - Advanced Railway Systems
 - Digital Communication
 - Atmospheric Environmental Modelling
+![Dissertation](/assets/img/Dissertation.JPG)
 
 Electrical Engineering, BEng, HKU  (2015 - 2019)
 - **Final Year Project**: High Step-Up Ratio Resonant Converter with Phase Shift Control for PV Applications
