@@ -2,7 +2,7 @@
 
 ### Work Experience
 **Engineer** @ TD/Plant/Protection O&M, CLP Power Hong Kong
-- Protection Operation & Maintenance (Busbar Protection - HZBBZ, ILOC, EBBZ; Feeder, RMU & Transformer, Capacitor Protection)
+- Protection Operation & Maintenance ([Busbar Protection](https://github.com/karlmhlai/portfolio/blob/8d9fb0740b13340f7c4f90cc1c01c1c30ca77d94/assets/doc/June2020%20Monthly%20v2.pdf) - HZBBZ, ILOC, EBBZ; [Feeder](https://github.com/karlmhlai/portfolio/blob/8d9fb0740b13340f7c4f90cc1c01c1c30ca77d94/assets/doc/Quarterly4%20v1.pdf), RMU & [Transformer](https://github.com/karlmhlai/portfolio/blob/8d9fb0740b13340f7c4f90cc1c01c1c30ca77d94/assets/doc/Quarterly3%20v1.pdf), [Capacitor](https://github.com/karlmhlai/portfolio/blob/8d9fb0740b13340f7c4f90cc1c01c1c30ca77d94/assets/doc/Nov2020%20Monthly%20v1.pdf) Protection)
 - Frame Earth Measurement during LTF BBZ Protection
   ![Earth Resistance](/assets/img/Earth_Resistance.JPG) 
 - Protection Improvement (Numerical Auto-Switching, Protection Replacement)
