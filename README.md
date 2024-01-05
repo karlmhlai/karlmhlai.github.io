@@ -52,11 +52,12 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 **Summer Intern** @ AMD/Network Planning, CLP Power Hong Kong Ltd. (2018 Summer)
 - **Project**: Issues in LV Distribution Network with PV Penetration
 ![Voltage Control](/assets/img/Intern.JPG)
-
-### Research Interest
-- Solutions to Large Optimal Control Problems Simultaneous Block Diagonalization 
 - Power Electronics & Control
 - PV Penetration Issues (Voltage Rise, Unbalanced Voltage, Harmonics, DC Injection, Protection)
 - Feed-in-Tariff & Demand Response
 - Power System Modelling (Energy Storage, Governor Turbine Model, Load Model)
 - PSCAD, MATLAB - Simulink (Monte-Carlo Simulation), PSS-SinCAL
+
+  
+### Research Interest
+- Solutions to Large Optimal Control Problems Simultaneous Block Diagonalization 
