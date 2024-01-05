@@ -31,6 +31,7 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 - Transformer and CT Modelling during Deep Saturation with Inrush and Restrike Condition, [LVREF](https://github.com/karlmhlai/portfolio/blob/a793d8b114dcc3a16b99e282ed3cfcf7d10da1e3/assets/doc/LVREF_4f.pdf)
 - Interconnection Protection Design (PSB, OOS, Electrical Centre, Pole Slip Coordination)
 - Generator Protection Primary Injection, Ferroresonance & Inrush Study for First Energization
+- [OCEF Coordination and Considerations](https://github.com/karlmhlai/portfolio/blob/b8628c1f843355c4fd5758577461848d89a5486b/assets/doc/OCEF%20Coordination%20and%20Concern.pdf)
 ![Earth Resistance](/assets/img/Earth_Resistance.JPG) 
 ![Fault Waveform](/assets/img/Capture.JPG)
 
