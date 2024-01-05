@@ -19,24 +19,24 @@
 **Assistant Engineer** @ TD/P&R/Commissioning & Outage Planning, CLP Power Hong Kong Ltd
 - Commissioning Test on Switchgear and Protection System (CT tests, Primary Injection, Through Fault Stability Test, Functional Test)
 - MMC-HVDC Design & Stability Analysis 
-- IBR Plant in Transmission Requirement 
-- System Inertia Requirement 
-- Out-of-Step Protection and Frequency Restoration
+- [IBR Plant in Transmission Requirement](https://github.com/karlmhlai/portfolio/blob/0ec310f145dda758ec338fcaa93b83bf80613550/assets/doc/IEEE%202800-2022%20IBR%20at%20TS%20Requirement%20(External).pdf)
+- [System Inertia Requirement](https://github.com/karlmhlai/portfolio/blob/0ec310f145dda758ec338fcaa93b83bf80613550/assets/doc/System%20Inertia%20Requirement.pdf)
+- [Out-of-Step Protection and Frequency Restoration](https://github.com/karlmhlai/portfolio/blob/0ec310f145dda758ec338fcaa93b83bf80613550/assets/doc/2%20Out-of-Step%20Protection_v2_4f.pdf)
 - Commissioning of Protection System (400kV Bay - Feeder + Generator) 
 - High Voltage Testing
 
 **Research Assistant** @ Department of EEE, HKU (2019)
-- **Project**: Review of Conservative Voltage Reduction (CVR) and its Applicability to CLP Power Grid
-- Volt-Var Optimization
-- Dynamic Load Modelling
+- **Project**: [Review of Conservative Voltage Reduction (CVR) and its Applicability to CLP Power Grid](https://github.com/karlmhlai/portfolio/blob/1e71b84c2c1459e20366ed94437a48373afe6cd6/assets/doc/CVR%20Midterm%20Present.pdf)
+- [Volt-Var Optimization](https://github.com/karlmhlai/portfolio/blob/0ec310f145dda758ec338fcaa93b83bf80613550/assets/doc/Voltage%20Var%20Optimization.pdf)
+- [Dynamic Load Modelling](https://github.com/karlmhlai/portfolio/blob/0ec310f145dda758ec338fcaa93b83bf80613550/assets/doc/Load%20Model.pdf)
 
 **Summer Intern** @ AMD/Network Planning, CLP Power Hong Kong Ltd. (2018 Summer)
 - **Project**: Issues in LV Distribution Network with PV Penetration
 ![Voltage Control](/assets/img/Intern.JPG)
 - Power Electronics & Control
-- PV Penetration Issues (Voltage Rise, Unbalanced Voltage, Harmonics, DC Injection, Protection)
+- PV Penetration Issues (Voltage Rise, Unbalanced Voltage, Harmonics, [DC Injection](https://github.com/karlmhlai/portfolio/blob/1e71b84c2c1459e20366ed94437a48373afe6cd6/assets/doc/04%20DC%20Injection%20Criteria%20for%20PV%20Systems%20%26%20Inverter.pdf), Protection)
 - Feed-in-Tariff & Demand Response
-- Power System Modelling (Energy Storage, Governor Turbine Model, Load Model)
+- Power System Modelling ([Energy Storage](https://github.com/karlmhlai/portfolio/blob/1e71b84c2c1459e20366ed94437a48373afe6cd6/assets/doc/05%20Energy%20Storage%20Modelling%20and%20Calculation%20v2.pdf), Governor Turbine Model, Load Model)
 - PSCAD, MATLAB - Simulink (Monte-Carlo Simulation), PSS-SinCAL
 
 
@@ -62,7 +62,7 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 - **Topics Studied**:
 - Power Systems Engineering (Protection & Analysis)
 - Control Systems
-- Heat Transfer and HVAC Design
+- [Heat Transfer](https://github.com/karlmhlai/portfolio/blob/0ec310f145dda758ec338fcaa93b83bf80613550/assets/doc/9.%20Heat%20Transfer.pdf) and HVAC Design
 - Digital Signal Processing, Image Processing, Pattern Recognition and Machine Learning
 
 
