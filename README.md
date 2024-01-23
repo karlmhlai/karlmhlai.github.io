@@ -12,7 +12,7 @@
 - Transformer and CT Modelling during Deep Saturation with Inrush and Restrike Condition, [LVREF](https://github.com/karlmhlai/portfolio/blob/a793d8b114dcc3a16b99e282ed3cfcf7d10da1e3/assets/doc/LVREF_4f.pdf)
 - Interconnection Protection Design (PSB, OOS, Electrical Centre, Pole Slip Coordination)
 - Generator Protection Primary Injection, Ferroresonance & Inrush Study for First Energization
-- [OCEF Coordination and Considerations](https://github.com/karlmhlai/portfolio/blob/b8628c1f843355c4fd5758577461848d89a5486b/assets/doc/OCEF%20Coordination%20and%20Concern.pdf) / [Time and Space in an OCEF Relationship](https://github.com/karlmhlai/portfolio/blob/9317e62fe738d74f179231db483671cb93005925/assets/doc/Time%20and%20Space%20in%20an%20OCEF%20Relationship.pdf)
+- [OCEF Coordination and Considerations](https://github.com/karlmhlai/portfolio/blob/b8628c1f843355c4fd5758577461848d89a5486b/assets/doc/OCEF%20Coordination%20and%20Concern.pdf) 
 
 **Assistant Engineer** @ TD/P&R/Commissioning & Outage Planning, CLP Power Hong Kong Ltd
 - Commissioning Test on Switchgear and Protection System (CT tests, Primary Injection, Through Fault Stability Test, Functional Test)
