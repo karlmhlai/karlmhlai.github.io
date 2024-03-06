@@ -60,7 +60,7 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 - **Final Year Project**: [High Step-Up Ratio Resonant Converter with Phase Shift Control for PV Applications](https://github.com/karlmhlai/portfolio/blob/2dbdaeae2e2b224f1ddad95d42a3b22e1edf1325/assets/doc/Resonant_Converter_with_Phase_Shift_Control.pdf)
 ![FYP](/assets/img/FYP.JPG)
 - **Integrated Design Project**: Smart Farm with Microgrid
-- ![IDP](/assets/img/IDP.jpg)
+![IDP](/assets/img/IDP.jpg)
 - **Topics Studied**:
 - Power Systems Engineering (Protection & Analysis)
 - Control Systems (Introduction: Root Locus, Bode Plot and Nyquist Plot, First and Second Order Systems; State Space System: Pole Placement, Observer Design, Stability Analysis (Lyapunov Stability or Eigenvalue Analysis), Optimal Control; Digital Designs)
