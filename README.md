@@ -7,13 +7,16 @@
 - Frame Earth Measurement during LTF BBZ Protection
   ![Earth Resistance](/assets/img/Earth_Resistance.JPG) 
 - Protection Improvement (Numerical Auto-Switching, Protection Replacement)
+  ![NAS](/assets/img/NAS.JPG)
 - Fault Diagnosis and Rectification on Secondary Circuit (Switchgear & Protection)
   ![Fault Waveform](/assets/img/Capture.JPG)
 - [Fault Location](https://github.com/karlmhlai/portfolio/blob/c4b0df88b9bc62eed2d7da8b90b8bc6dcb9aab96/assets/doc/Fault%20Location_4f_MHL.pdf)
 - Transformer and CT Modelling during Deep Saturation with Inrush and Restrike Condition, [LVREF](https://github.com/karlmhlai/portfolio/blob/a793d8b114dcc3a16b99e282ed3cfcf7d10da1e3/assets/doc/LVREF_4f.pdf)
 - Interconnection Protection Design (PSB, OOS, Electrical Centre, Pole Slip Coordination)
 - Generator Protection Primary Injection, Ferroresonance & Inrush Study for First Energization
-- [OCEF Coordination and Considerations](https://github.com/karlmhlai/portfolio/blob/b8628c1f843355c4fd5758577461848d89a5486b/assets/doc/OCEF%20Coordination%20and%20Concern.pdf) 
+- [OCEF Coordination and Considerations](https://github.com/karlmhlai/portfolio/blob/b8628c1f843355c4fd5758577461848d89a5486b/assets/doc/OCEF%20Coordination%20and%20Concern.pdf)
+- 132kV and 11kV Switching
+  ![NXPLUS](/assets/img/NXPLUS.jpg)
 
 **Assistant Engineer** @ TD/P&R/Commissioning & Outage Planning, CLP Power Hong Kong Ltd
 - Commissioning Test on Switchgear and Protection System (CT tests, Primary Injection, Through Fault Stability Test, Functional Test)
@@ -57,6 +60,7 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 - **Final Year Project**: [High Step-Up Ratio Resonant Converter with Phase Shift Control for PV Applications](https://github.com/karlmhlai/portfolio/blob/2dbdaeae2e2b224f1ddad95d42a3b22e1edf1325/assets/doc/Resonant_Converter_with_Phase_Shift_Control.pdf)
 ![FYP](/assets/img/FYP.JPG)
 - **Integrated Design Project**: Smart Farm with Microgrid
+  ![IDP](/assets/img/NAS.jpg)
 - **Topics Studied**:
 - Power Systems Engineering (Protection & Analysis)
 - Control Systems (Introduction: Root Locus, Bode Plot and Nyquist Plot, First and Second Order Systems; State Space System: Pole Placement, Observer Design, Stability Analysis (Lyapunov Stability or Eigenvalue Analysis), Optimal Control; Digital Designs)
@@ -75,3 +79,4 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 4. [Clearance, Corona and Surges](https://github.com/karlmhlai/portfolio/blob/3c9d7a01e5a9506e42af662e9d448abdc32989d2/assets/doc/C4%20Clearance%20Corona%20%26%20Surges%20v1_rotated.pdf)
 5. [Advanced Topics in Overhead Lines](https://github.com/karlmhlai/portfolio/blob/3c9d7a01e5a9506e42af662e9d448abdc32989d2/assets/doc/05%20Advanced%20Topic%20in%20OHL.pdf)
 - [Constrained Optimization](https://github.com/karlmhlai/portfolio/blob/c000c476f02b189bb0f7cc09e675af883be477e6/assets/doc/Chapter%2012%20Theory%20of%20Constrained%20Optimization.pdf)
+- [Detector and Comparator Circuit](https://github.com/karlmhlai/portfolio/blob/ce114196655db304ca02f9e237520cde7ddac53d/assets/doc/Detector%20and%20Comparator%20Circuit_MHL.pdf)
