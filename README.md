@@ -84,5 +84,16 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 - [Directional Element in DOCEF, ILOC and Distance](https://github.com/karlmhlai/portfolio/blob/5bc59100d533ef8d923d82def2ff4f54f8fdbc3c/assets/doc/Directional_v3.pdf)
 
 ### Quotes
+- Movie: The Master (2015)
+- “Martial arts schools fail to nurture true talent because they don't impart genuine skills.”
+- “And those who truly have abilities end up being bound by rules until death.”
+- “But isn’t being alive just about putting on a facade?”
+- "There's no free lunch in the world. The bread is free, but you must order something."
+- "They all understand that martial arts schools are bound to decline.”
+- “All of this isn’t about skill; it’s a transaction conducted ‘by the rules.’”
+- “Everyone is a ‘straw bag,’ so let’s huddle together for warmth.”
+- "He adhered to the rules all his life, only to be defeated by the rules in the end."
+  ![Master1](/assets/img/N1.JPG)
+  ![Master2](/assets/img/N2.JPG)
 
 
