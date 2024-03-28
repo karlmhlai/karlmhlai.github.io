@@ -82,3 +82,7 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 - [Constrained Optimization](https://github.com/karlmhlai/portfolio/blob/c000c476f02b189bb0f7cc09e675af883be477e6/assets/doc/Chapter%2012%20Theory%20of%20Constrained%20Optimization.pdf)
 - [Detector and Comparator Circuit](https://github.com/karlmhlai/portfolio/blob/ce114196655db304ca02f9e237520cde7ddac53d/assets/doc/Detector%20and%20Comparator%20Circuit_MHL.pdf)
 - [Directional Element in DOCEF, ILOC and Distance](https://github.com/karlmhlai/portfolio/blob/5bc59100d533ef8d923d82def2ff4f54f8fdbc3c/assets/doc/Directional_v3.pdf)
+
+
+### Quotes
+- Dunning Kruger Curve
