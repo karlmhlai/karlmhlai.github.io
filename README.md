@@ -83,8 +83,8 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 5. [Advanced Topics in Overhead Lines](https://github.com/karlmhlai/portfolio/blob/3c9d7a01e5a9506e42af662e9d448abdc32989d2/assets/doc/05%20Advanced%20Topic%20in%20OHL.pdf)
 
 # Power Transmission and Distribution (A course designed for BENG student in 2022-2023)
-1. [Introduction to Power System](https://github.com/karlmhlai/portfolio/blob/846acdb1d9923b73449af796c3f3d84a8352fd7a/assets/doc/Power_Intro.pdf)
-2. [Distribution Analysis - Transformer and Voltage Regulator]
+1. [Introduction to Power System - Per Phase Analysis, Per Unit Analysis](https://github.com/karlmhlai/portfolio/blob/846acdb1d9923b73449af796c3f3d84a8352fd7a/assets/doc/Power_Intro.pdf)
+2. [Distribution Analysis - Transformer and Voltage Regulator](https://github.com/karlmhlai/portfolio/blob/c87a30ac86aac60707d991192a3e5bc8088e5b08/assets/doc/Transformer%20and%20Voltage%20Regulator.pdf)
 3. [Distribution Analysis - Load Flow Analysis](https://github.com/karlmhlai/portfolio/blob/8621223cdbe872ba5abe0e43f4b6f190b169fb24/assets/doc/Distribution%20Analysis%20and%20Power%20Flow.pdf)
 4. [Fault Analysis](https://github.com/karlmhlai/portfolio/blob/8621223cdbe872ba5abe0e43f4b6f190b169fb24/assets/doc/Fault%20Analysis_MHL_v2.pdf)
 
@@ -95,8 +95,10 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 4. [OCEF Coordination and Considerations](https://github.com/karlmhlai/portfolio/blob/b8628c1f843355c4fd5758577461848d89a5486b/assets/doc/OCEF%20Coordination%20and%20Concern.pdf)
 5. [Voltage Transformer](https://github.com/karlmhlai/portfolio/blob/8621223cdbe872ba5abe0e43f4b6f190b169fb24/assets/doc/Theory%20of%20VT.pdf)
 6. [Directional Element](https://github.com/karlmhlai/portfolio/blob/5c3b8e35a84d71db5ddf11275c988c63b485cf46/assets/doc/Directional_v3.pdf)
-
-
+7. [Pilot Wire & Current Differential](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Pilot%20Wire%20%26%20Current%20Differential.pptx) & [Translay S](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Feeder%20Protection%20-%20Translay%20S%20_MBCI.pdf)
+8. Distance Protection ([VTS](https://github.com/karlmhlai/portfolio/blob/c87a30ac86aac60707d991192a3e5bc8088e5b08/assets/doc/VTS.pdf), [SOTF](https://github.com/karlmhlai/portfolio/blob/c87a30ac86aac60707d991192a3e5bc8088e5b08/assets/doc/YUE%20-%20LCE%202%20Fault.pdf), [Scheme](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Distance%20Scheme.pdf)
+9. [Transformer Protection](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Tx%20Protection_Combined_MHL_v2.pdf)
+  
 ### Quotes
 - Movie: The Master (2015)
 - “Martial arts schools fail to nurture true talent because they don't impart genuine skills.”
