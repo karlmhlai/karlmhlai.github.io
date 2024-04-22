@@ -2,7 +2,7 @@
 
 ### Work Experience
 **Engineer** @ TD/Plant/Protection O&M, CLP Power Hong Kong
-- Protection Operation & Maintenance ([Busbar Protection](https://github.com/karlmhlai/portfolio/blob/8d9fb0740b13340f7c4f90cc1c01c1c30ca77d94/assets/doc/June2020%20Monthly%20v2.pdf) - HZBBZ, [ILOC](https://github.com/karlmhlai/portfolio/blob/c243dad8d44be2add67324ce75ae29c38a4ffdb2/assets/doc/ILOC%20Faulty%20Trip%20Supervision%20Relay.pdf), EBBZ; [Feeder](https://github.com/karlmhlai/portfolio/blob/8d9fb0740b13340f7c4f90cc1c01c1c30ca77d94/assets/doc/Quarterly4%20v1.pdf), RMU & [Transformer](https://github.com/karlmhlai/portfolio/blob/8d9fb0740b13340f7c4f90cc1c01c1c30ca77d94/assets/doc/Quarterly3%20v1.pdf), [Capacitor](https://github.com/karlmhlai/portfolio/blob/8d9fb0740b13340f7c4f90cc1c01c1c30ca77d94/assets/doc/Nov2020%20Monthly%20v1.pdf) Protection)
+- Protection Operation & Maintenance ([Busbar Protection](https://github.com/karlmhlai/portfolio/blob/8d9fb0740b13340f7c4f90cc1c01c1c30ca77d94/assets/doc/June2020%20Monthly%20v2.pdf) - [HZBBZ](https://github.com/karlmhlai/portfolio/blob/5c3b8e35a84d71db5ddf11275c988c63b485cf46/assets/doc/HZBBZ%20Stability.pdf), [ILOC](https://github.com/karlmhlai/portfolio/blob/c243dad8d44be2add67324ce75ae29c38a4ffdb2/assets/doc/ILOC%20Faulty%20Trip%20Supervision%20Relay.pdf), EBBZ; [Feeder](https://github.com/karlmhlai/portfolio/blob/8d9fb0740b13340f7c4f90cc1c01c1c30ca77d94/assets/doc/Quarterly4%20v1.pdf), RMU & [Transformer](https://github.com/karlmhlai/portfolio/blob/8d9fb0740b13340f7c4f90cc1c01c1c30ca77d94/assets/doc/Quarterly3%20v1.pdf), [Capacitor](https://github.com/karlmhlai/portfolio/blob/8d9fb0740b13340f7c4f90cc1c01c1c30ca77d94/assets/doc/Nov2020%20Monthly%20v1.pdf) Protection)
   ![BD](/assets/img/BD.JPG)
   ![HZBBZ](/assets/img/HZBBZ.JPG)
 - Frame Earth Measurement during LTF BBZ Protection
@@ -15,7 +15,7 @@
 - Transformer and CT Modelling during Deep Saturation with Inrush and Restrike Condition, [LVREF](https://github.com/karlmhlai/portfolio/blob/a793d8b114dcc3a16b99e282ed3cfcf7d10da1e3/assets/doc/LVREF_4f.pdf)
 - Interconnection Protection Design (PSB, OOS, Electrical Centre, Pole Slip Coordination)
 - Generator Protection Primary Injection, Ferroresonance & Inrush Study for First Energization
-- [OCEF Coordination and Considerations](https://github.com/karlmhlai/portfolio/blob/b8628c1f843355c4fd5758577461848d89a5486b/assets/doc/OCEF%20Coordination%20and%20Concern.pdf)
+- [Comparison on Generator Stator Earth Fault Protection & Operation of Field E/F](https://github.com/karlmhlai/portfolio/blob/5c3b8e35a84d71db5ddf11275c988c63b485cf46/assets/doc/4a%20BKP%20C5%20C6%20Trip%2020240406_v2.pdf)
 - 132kV and 11kV Switching
   ![NXPLUS](/assets/img/NXPLUS.jpg)
 
@@ -84,7 +84,9 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 - [Directional Element in DOCEF, ILOC and Distance](https://github.com/karlmhlai/portfolio/blob/5bc59100d533ef8d923d82def2ff4f54f8fdbc3c/assets/doc/Directional_v3.pdf)
 - Power Transmission and Distribution (A course designed for BENG student in 2022-2023)
 1. [Introduction to Power System](https://github.com/karlmhlai/portfolio/blob/846acdb1d9923b73449af796c3f3d84a8352fd7a/assets/doc/Power_Intro.pdf)
-
+- Power System Protection
+1. [OCEF Coordination and Considerations](https://github.com/karlmhlai/portfolio/blob/b8628c1f843355c4fd5758577461848d89a5486b/assets/doc/OCEF%20Coordination%20and%20Concern.pdf)
+2. [Directional Element](https://github.com/karlmhlai/portfolio/blob/5c3b8e35a84d71db5ddf11275c988c63b485cf46/assets/doc/Directional_v3.pdf)
 ### Quotes
 - Movie: The Master (2015)
 - “Martial arts schools fail to nurture true talent because they don't impart genuine skills.”
