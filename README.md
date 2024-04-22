@@ -21,7 +21,7 @@
 
 **Assistant Engineer** @ TD/P&R/Commissioning & Outage Planning, CLP Power Hong Kong Ltd
 - Commissioning Test on Switchgear and Protection System (CT tests, Primary Injection, Through Fault Stability Test, Functional Test)
-- MMC-HVDC Design & Stability Analysis 
+- [MMC-HVDC Design & Stability Analysis](https://github.com/karlmhlai/portfolio/blob/988cfe5618d2f2d11a9f7eb07ff62120706b7970/assets/doc/hvdc.pdf)
 - [IBR Plant in Transmission Requirement](https://github.com/karlmhlai/portfolio/blob/0ec310f145dda758ec338fcaa93b83bf80613550/assets/doc/IEEE%202800-2022%20IBR%20at%20TS%20Requirement%20(External).pdf)
 - [System Inertia Requirement](https://github.com/karlmhlai/portfolio/blob/0ec310f145dda758ec338fcaa93b83bf80613550/assets/doc/System%20Inertia%20Requirement.pdf)
 - [Out-of-Step Protection and Frequency Restoration](https://github.com/karlmhlai/portfolio/blob/0ec310f145dda758ec338fcaa93b83bf80613550/assets/doc/2%20Out-of-Step%20Protection_v2_4f.pdf)
@@ -96,7 +96,7 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 5. [Voltage Transformer](https://github.com/karlmhlai/portfolio/blob/8621223cdbe872ba5abe0e43f4b6f190b169fb24/assets/doc/Theory%20of%20VT.pdf)
 6. [Directional Element](https://github.com/karlmhlai/portfolio/blob/5c3b8e35a84d71db5ddf11275c988c63b485cf46/assets/doc/Directional_v3.pdf)
 7. [Pilot Wire & Current Differential](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Pilot%20Wire%20%26%20Current%20Differential.pptx) & [Translay S](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Feeder%20Protection%20-%20Translay%20S%20_MBCI.pdf)
-8. Distance Protection ([VTS](https://github.com/karlmhlai/portfolio/blob/c87a30ac86aac60707d991192a3e5bc8088e5b08/assets/doc/VTS.pdf), [SOTF](https://github.com/karlmhlai/portfolio/blob/c87a30ac86aac60707d991192a3e5bc8088e5b08/assets/doc/YUE%20-%20LCE%202%20Fault.pdf), [Scheme](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Distance%20Scheme.pdf)
+8. Distance Protection ([VTS](https://github.com/karlmhlai/portfolio/blob/c87a30ac86aac60707d991192a3e5bc8088e5b08/assets/doc/VTS.pdf), [SOTF](https://github.com/karlmhlai/portfolio/blob/c87a30ac86aac60707d991192a3e5bc8088e5b08/assets/doc/YUE%20-%20LCE%202%20Fault.pdf), [Scheme](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Distance%20Scheme.pdf))
 9. [Transformer Protection](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Tx%20Protection_Combined_MHL_v2.pdf)
   
 ### Quotes
