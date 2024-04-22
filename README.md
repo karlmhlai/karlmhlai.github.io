@@ -73,20 +73,30 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 - [Solutions to Large Optimal Control Problems Simultaneous Block Diagonalization](https://github.com/karlmhlai/portfolio/blob/ad77abbabe7fab6c43fa8d2665996c2ad84b831f/assets/doc/ELEC8003%20Presentation%20Solutions%20to%20Large%20Optimal%20Control%20Problems_v2.pdf)
 - [Sliding Mode Control](https://github.com/karlmhlai/portfolio/blob/ad77abbabe7fab6c43fa8d2665996c2ad84b831f/assets/doc/New%20Robust%20Sliding%20Mode%20Controller%20-%20Karl.pdf)
 - [Dynamics and Vibration](https://github.com/karlmhlai/portfolio/blob/ad77abbabe7fab6c43fa8d2665996c2ad84b831f/assets/doc/Dynamics%20and%20Vibration.pdf) as a High Diploma Course on 2022-2023
-- Advanced Topics in Overhead Line Designs (A course designed for BENG student in 2022-2023)
+- [Constrained Optimization](https://github.com/karlmhlai/portfolio/blob/c000c476f02b189bb0f7cc09e675af883be477e6/assets/doc/Chapter%2012%20Theory%20of%20Constrained%20Optimization.pdf)
+
+# Advanced Topics in Overhead Line Designs (A course designed for BENG student in 2022-2023)
 1. [Introduction to Overhead Lines](https://github.com/karlmhlai/portfolio/blob/3c9d7a01e5a9506e42af662e9d448abdc32989d2/assets/doc/01%20Introduction%20to%20OHL.pdf)
 2. [Line Parameter and Line Model](https://github.com/karlmhlai/portfolio/blob/3c9d7a01e5a9506e42af662e9d448abdc32989d2/assets/doc/C2%20Line%20Parameter%20and%20Line%20Model_2f.pdf)
 3. [Structural Considerations in Overhead Lines](https://github.com/karlmhlai/portfolio/blob/3c9d7a01e5a9506e42af662e9d448abdc32989d2/assets/doc/C3%20Structural%20Consideration%20of%20OHL.pdf)
 4. [Clearance, Corona and Surges](https://github.com/karlmhlai/portfolio/blob/3c9d7a01e5a9506e42af662e9d448abdc32989d2/assets/doc/C4%20Clearance%20Corona%20%26%20Surges%20v1_rotated.pdf)
 5. [Advanced Topics in Overhead Lines](https://github.com/karlmhlai/portfolio/blob/3c9d7a01e5a9506e42af662e9d448abdc32989d2/assets/doc/05%20Advanced%20Topic%20in%20OHL.pdf)
-- [Constrained Optimization](https://github.com/karlmhlai/portfolio/blob/c000c476f02b189bb0f7cc09e675af883be477e6/assets/doc/Chapter%2012%20Theory%20of%20Constrained%20Optimization.pdf)
-- [Detector and Comparator Circuit](https://github.com/karlmhlai/portfolio/blob/ce114196655db304ca02f9e237520cde7ddac53d/assets/doc/Detector%20and%20Comparator%20Circuit_MHL.pdf)
-- [Directional Element in DOCEF, ILOC and Distance](https://github.com/karlmhlai/portfolio/blob/5bc59100d533ef8d923d82def2ff4f54f8fdbc3c/assets/doc/Directional_v3.pdf)
-- Power Transmission and Distribution (A course designed for BENG student in 2022-2023)
+
+# Power Transmission and Distribution (A course designed for BENG student in 2022-2023)
 1. [Introduction to Power System](https://github.com/karlmhlai/portfolio/blob/846acdb1d9923b73449af796c3f3d84a8352fd7a/assets/doc/Power_Intro.pdf)
-- Power System Protection
-1. [OCEF Coordination and Considerations](https://github.com/karlmhlai/portfolio/blob/b8628c1f843355c4fd5758577461848d89a5486b/assets/doc/OCEF%20Coordination%20and%20Concern.pdf)
-2. [Directional Element](https://github.com/karlmhlai/portfolio/blob/5c3b8e35a84d71db5ddf11275c988c63b485cf46/assets/doc/Directional_v3.pdf)
+2. [Distribution Analysis - Transformer and Voltage Regulator]
+3. [Distribution Analysis - Load Flow Analysis](https://github.com/karlmhlai/portfolio/blob/8621223cdbe872ba5abe0e43f4b6f190b169fb24/assets/doc/Distribution%20Analysis%20and%20Power%20Flow.pdf)
+4. [Fault Analysis](https://github.com/karlmhlai/portfolio/blob/8621223cdbe872ba5abe0e43f4b6f190b169fb24/assets/doc/Fault%20Analysis_MHL_v2.pdf)
+
+# Power System Protection
+1. [Fault Analysis](https://github.com/karlmhlai/portfolio/blob/8621223cdbe872ba5abe0e43f4b6f190b169fb24/assets/doc/Fault%20Analysis_MHL_v2.pdf)
+2. [Detector and Comparator Circuit](https://github.com/karlmhlai/portfolio/blob/ce114196655db304ca02f9e237520cde7ddac53d/assets/doc/Detector%20and%20Comparator%20Circuit_MHL.pdf)
+3. [Current Transformer](https://github.com/karlmhlai/portfolio/blob/8621223cdbe872ba5abe0e43f4b6f190b169fb24/assets/doc/Current%20Transformer%20(CT)%20Theory%20and%20Application.pdf)
+4. [OCEF Coordination and Considerations](https://github.com/karlmhlai/portfolio/blob/b8628c1f843355c4fd5758577461848d89a5486b/assets/doc/OCEF%20Coordination%20and%20Concern.pdf)
+5. [Voltage Transformer](https://github.com/karlmhlai/portfolio/blob/8621223cdbe872ba5abe0e43f4b6f190b169fb24/assets/doc/Theory%20of%20VT.pdf)
+6. [Directional Element](https://github.com/karlmhlai/portfolio/blob/5c3b8e35a84d71db5ddf11275c988c63b485cf46/assets/doc/Directional_v3.pdf)
+
+
 ### Quotes
 - Movie: The Master (2015)
 - “Martial arts schools fail to nurture true talent because they don't impart genuine skills.”
