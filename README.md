@@ -87,6 +87,7 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 2. [Distribution Analysis - Transformer and Voltage Regulator](https://github.com/karlmhlai/portfolio/blob/c87a30ac86aac60707d991192a3e5bc8088e5b08/assets/doc/Transformer%20and%20Voltage%20Regulator.pdf)
 3. [Distribution Analysis - Load Flow Analysis](https://github.com/karlmhlai/portfolio/blob/8621223cdbe872ba5abe0e43f4b6f190b169fb24/assets/doc/Distribution%20Analysis%20and%20Power%20Flow.pdf)
 4. [Fault Analysis](https://github.com/karlmhlai/portfolio/blob/8621223cdbe872ba5abe0e43f4b6f190b169fb24/assets/doc/Fault%20Analysis_MHL_v2.pdf)
+5. [Advanced Distribution System Modelling - Volt-Var Optimiztion, Resilience, Microgrid Modelling](https://github.com/karlmhlai/portfolio/blob/66ccb415b661fdd7b3d7ee71ab74604a6da22d49/assets/doc/Advanced%20Distribution%20System%20Modelling.pdf)
 
 #### Power System Protection
 1. [Fault Analysis](https://github.com/karlmhlai/portfolio/blob/8621223cdbe872ba5abe0e43f4b6f190b169fb24/assets/doc/Fault%20Analysis_MHL_v2.pdf)
@@ -98,6 +99,7 @@ Electrical Engineering, BEng, HKU  (2015 - 2019)
 7. [Pilot Wire & Current Differential](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Pilot%20Wire%20%26%20Current%20Differential.pptx) & [Translay S](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Feeder%20Protection%20-%20Translay%20S%20_MBCI.pdf)
 8. Distance Protection ([VTS](https://github.com/karlmhlai/portfolio/blob/c87a30ac86aac60707d991192a3e5bc8088e5b08/assets/doc/VTS.pdf), [SOTF](https://github.com/karlmhlai/portfolio/blob/c87a30ac86aac60707d991192a3e5bc8088e5b08/assets/doc/YUE%20-%20LCE%202%20Fault.pdf), [Scheme](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Distance%20Scheme.pdf))
 9. [Transformer Protection](https://github.com/karlmhlai/portfolio/blob/1efd3ccf886cc5fc4f27bb82c3b0da580b5a0307/assets/doc/Tx%20Protection_Combined_MHL_v2.pdf)
+10. [From LTF to HZBBZ](https://github.com/karlmhlai/portfolio/blob/66ccb415b661fdd7b3d7ee71ab74604a6da22d49/assets/doc/HZBBZ_LTF.pdf)
   
 ### Quotes
 - Movie: The Master (2015)
